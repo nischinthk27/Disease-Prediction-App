@@ -53,3 +53,6 @@ Example Inputs
 - Age: 45
 
 Prediction: ✅ Disease Present (Confidence ~82%)
+
+Likedin : https://www.linkedin.com/in/nischinth-k-510918263/
+
